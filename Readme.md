@@ -1,0 +1,13 @@
+-my first project (landing page).
+-In this project i used alot of what i learned in the DOM course.
+-I made a button to add new sections using creatSection function.
+-I used a counter to identify the section number.
+-I created a dynamica navigation bar and add this sections to it.
+-I used data-* to identify the section name and id to add it to the navigation bar
+-I add the main four sections dynamically with a for loob.
+-I used getBoundingClientRect() method to know which section the view on to add your active class.
+-I used scrollIntoView() method as i click on a specific section on the navigation bar it scroll into this section smoothly and i use setTimeOut() to wait for 300ms and then run the function.
+-I of course used eventlisteners ,classlist.add() to add your active class and active link and classList.remove() to remove them .
+-I used getElmentById(), querySelector(), querySelectorAll() to select elements from the DOM.
+-I used insertAdjacentHTML() to add element to the DOM instead of appendChild() because it gives me more specification of the position of the element.
+-I hope you like my project.
